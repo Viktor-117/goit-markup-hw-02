@@ -1,0 +1,22 @@
+:root{
+    --primary-text-color: #212121;
+    --secondary-text-color: #757575;
+    --primary-bg-color: #E5E5E5;
+    --secondary-bg-color: #F5F4FA;
+    --white-bg-color: #ffffff;
+    --accent-color: #2196F3;
+}
+.body{color: var(--primary-text-color);
+    font-family: "Roboto", "sans-serif";}
+.list {list-style: none;}
+.link {text-decoration: none;}
+.nav-logo, .footer-logo {font-family: Raleway; font-weight: 700; font-size: 24px; color: var(--primary-text-color);}
+.logo {color: var(--accent-color);}
+.nav-link a {color: var(--primary-text-color);}
+.nav-link:hover {color: var(--accent-color)}
+.section-text p {color: var(--secondary-text-color);
+font-weight: 400;
+font-size: 14px;
+}
+.link 
+
