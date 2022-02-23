@@ -44,7 +44,8 @@
     background-color: var(--accent-color);
     font-size: 16px;
     font-weight: 700;
-    line-height: 1.9;}
+    line-height: 1.9;
+    cursor: pointer;}
 .about-title {font-size: var(--primary-font-size);
     font-weight: 700;
     line-height: 1.15;
@@ -79,3 +80,11 @@
     color: var(--secondary-text-color);
     line-height: 1.7;
     font-style: normal;}
+.buttons-item {background: var(--secondary-bg-color);
+    border-radius: 4px;}
+.portfolio-title {font-weight: 700;
+    font-size: 18px;
+    line-height: 2;}
+.portfolio-text {font-size: 16px;
+    color: var(--secondary-text-color);
+    line-height: 1.9;}
