@@ -80,8 +80,11 @@
     color: var(--secondary-text-color);
     line-height: 1.7;
     font-style: normal;}
-.buttons-item {background: var(--secondary-bg-color);
-    border-radius: 4px;}
+.filter-btn {background-color: var(--secondary-bg-color);
+    line-height: 2;
+    }
+.filter-btn:hover,
+.filter-btn:focus {background-color: var(--accent-color);}
 .portfolio-title {font-weight: 700;
     font-size: 18px;
     line-height: 2;}
