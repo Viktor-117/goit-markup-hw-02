@@ -84,7 +84,8 @@
     line-height: 2;
     }
 .filter-btn:hover,
-.filter-btn:focus {background-color: var(--accent-color);}
+.filter-btn:focus {background-color: var(--accent-color);
+    color: var(--white-bg-color);}
 .portfolio-title {font-weight: 700;
     font-size: 18px;
     line-height: 2;}
