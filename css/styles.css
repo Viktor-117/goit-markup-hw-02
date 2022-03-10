@@ -82,6 +82,9 @@
     font-style: normal;}
 .filter-btn {background-color: var(--secondary-bg-color);
     line-height: 2;
+    border: 0px;
+    border-radius: 10%;
+    margin-top: 10px;
     }
 .filter-btn:hover,
 .filter-btn:focus {background-color: var(--accent-color);
